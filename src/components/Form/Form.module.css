@@ -1,0 +1,12 @@
+.conteiner{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    margin-top: 25px;
+    color:white;
+    background-color: rgb(140, 136, 136);
+}
+
+.error{
+    color: red;
+}

@@ -1,0 +1,14 @@
+.conteiner{
+    background-color: brown;
+    width:fit-content;
+    padding: 0.5em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.buttonclose{
+    background-color: rgb(95, 21, 206);
+    border-bottom: 10h;
+    width:fit-content;
+    margin-left: 90%;
+}

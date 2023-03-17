@@ -1,0 +1,10 @@
+.Cardconteiner{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(48, 165, 42);
+    padding: 2em;
+    border-radius: 15px;
+}
